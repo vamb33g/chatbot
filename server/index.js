@@ -27,7 +27,7 @@ app.listen("3080", ()=>console.log("listening on port 3080"))
 
 // dummy route to test
 app.get("/", (req, res) => {
-    res.send("Hello World!")
+    res.send("vamb33g server is running")
 })
 
 

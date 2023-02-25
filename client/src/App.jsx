@@ -35,7 +35,7 @@ function App() {
       <div className=" font-bold  text-2xl text-center mb-3">
         vamb33g chatbot
       </div>
-      <p className="italic">How can I help you? </p>
+      <p className="italic">How can I help you? My response time may be quite long, I am not the best among my brothers and sisters robots </p>
 
       {/* body */}
       <div
